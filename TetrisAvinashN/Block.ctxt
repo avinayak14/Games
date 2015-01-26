@@ -1,0 +1,25 @@
+#BlueJ class context
+comment0.params=
+comment0.target=Block()
+comment0.text=\n\ Constructs\ a\ blue\ block,\ because\ blue\ is\ the\ greatest\ color\ ever\!\ Sets\n\ the\ grid\ and\ the\ location\ equal\ to\ null.\n
+comment1.params=
+comment1.target=java.awt.Color\ getColor()
+comment1.text=\n\ Gets\ the\ color\ of\ this\ block.\n\ @return\ Color\ the\ color\ of\ this\ block\n
+comment2.params=newColor
+comment2.target=void\ setColor(java.awt.Color)
+comment2.text=\n\ Gets\ the\ color\ of\ this\ block\ to\ newColor.\n
+comment3.params=
+comment3.target=MyBoundedGrid\ getGrid()
+comment4.params=
+comment4.target=Location\ getLocation()
+comment5.params=
+comment5.target=void\ removeSelfFromGrid()
+comment6.params=gr\ loc
+comment6.target=void\ putSelfInGrid(MyBoundedGrid,\ Location)
+comment7.params=newLocation
+comment7.target=void\ moveTo(Location)
+comment7.text=\n\ Moves\ this\ block\ to\ newLocation\n\ if\ there\ is\ another\ block\ at\ newLocation,\ it\ is\ removed\n\ precondition\:\ \ (1)\ this\ block\ is\ contained\ in\ a\ grid\n\ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ (2)\ newLocation\ is\ valid\ in\ the\ grid\ of\ this\ block\n\ @param\ Location\ the\ new\ location\ for\ the\ block\ to\ be\ moved\ to\n
+comment8.params=
+comment8.target=java.lang.String\ toString()
+comment8.text=\n\ Gets\ a\ string\ with\ the\ location\ and\ color\ of\ this\ block.\n\ \n\ @return\ String\ the\ string\ with\ the\ location\ and\ color\ of\ the\ block\n
+numComments=9
