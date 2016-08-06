@@ -1,12 +1,15 @@
 ------------------------------------------------------------------------
-This is the project README file. Here, you should describe your project.
-Tell the reader (someone who does not know anything about this project)
-all he/she needs to know. The comments should usually include at least:
+This is a functional Tetris game with perks like scoring and levels in
+addition to the standard functionality. Most of the logic of the game is
+built with Block and array logic, and the GridWorld Case Study API is used
+for necessary graphics.
 ------------------------------------------------------------------------
 
-PROJECT TITLE:
-PURPOSE OF PROJECT:
-VERSION or DATE:
-HOW TO START THIS PROJECT:
-AUTHORS:
-USER INSTRUCTIONS:
+PROJECT TITLE: Tetris
+PURPOSE OF PROJECT:Lets the game of Tetris work on a computer with a
+standard black background, and a clean UI with all starting
+organization of the game, including crisply colored block patterns, and
+also row clearing.
+AUTHORS: Avinash Nayak
+
+You should be able to run the game with BlueJ or Eclipse.
