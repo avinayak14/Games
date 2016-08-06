@@ -1,12 +1,13 @@
 ------------------------------------------------------------------------
-This is the project README file. Here, you should describe your project.
-Tell the reader (someone who does not know anything about this project)
-all he/she needs to know. The comments should usually include at least:
+This is a working Solitaire game with perks like double clicking to add
+to the main pile. Most of the logic of the game is all built with stack
+implementations.
 ------------------------------------------------------------------------
 
-PROJECT TITLE:
-PURPOSE OF PROJECT:
-VERSION or DATE:
-HOW TO START THIS PROJECT:
-AUTHORS:
-USER INSTRUCTIONS:
+PROJECT TITLE: Solitaire
+PURPOSE OF PROJECT:Lets the game of Solitaire work on a computer with a
+standard dark green background, and a clean UI with all starting
+organization of the game.
+AUTHORS: Avinash Nayak
+
+You should be able to run the game with BlueJ or Eclipse.
